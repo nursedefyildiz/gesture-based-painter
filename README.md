@@ -1,4 +1,4 @@
-# 🎨 Nuvola Paint - Gesture Controlled AI Studio
+# 🎨 Gesture Controlled AI Studio
 
 OpenCV ve MediaPipe kullanılarak geliştirilen, el hareketleriyle kontrol edilen modern bir sanal çizim uygulamasıdır.
 
